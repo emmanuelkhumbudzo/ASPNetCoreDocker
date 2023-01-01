@@ -15,8 +15,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Build the Docker image
-    run: |
-       docker build . --file Dockerfile --tag  khumbudzo/aspnetetcoredocker:latest
+    - run: |
+       docker build .  --tag  khumbudzo/aspnetetcoredocker:latest
        docker run  khumbudzo/aspnetetcoredocker:latest
        docker push  khumbudzo/aspnetetcoredocker:latest
        
