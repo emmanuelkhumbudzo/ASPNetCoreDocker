@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XJ5hZF4IqSoQBpaqsd+NuI8QQYcK/2Mw4fYdvr8KiZo=",
+  "Source": "ASPNetCore.Docker",
+  "BasePath": "_content/ASPNetCore.Docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
